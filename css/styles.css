@@ -8,16 +8,16 @@
 }
 
 .nav-link:focus, .nav-link:hover, .nav-link.active, .navbar-nav .nav-link.show{
-  color: #fcc019;
+  color: #148ad9;
 }
 
 .header-nav-menu .dropdown-item:hover {
   color: #fff;
-  background-color: #12174E;
+  background-color: #4bc3c9;
 }
 
 .fixed-top {
-  background-color: #12174E;
+  background-color: #4bc3c9;
 
 }
 
@@ -83,7 +83,7 @@
 
   .slicknav_nav .nav-link:hover, .nav-link:focus, .nav-link:hover, .nav-link:active, .navbar-nav .nav-link.show{
     color: #fff;
-    background-color: #12174E;
+    background-color: #4bc3c9;
   }
 
   .fa-angle-up:before{
@@ -91,7 +91,7 @@
   }
 
   li.nav-item.dropdown.slicknav_parent.slicknav_open > a > a {
-    background: #12174E;
+    background: #4bc3c9;
     color : #fff !important;
   }
 
@@ -100,7 +100,7 @@
   } 
 
   .slicknav_btn.slicknav_open:before{
-    color: #fcc019;
+    color: #148ad9;
   }
 
   .fixed-top{
@@ -108,7 +108,7 @@
   }
 
   .slicknav_nav .slicknav_row:hover, .slicknav_nav a:hover{
-    background-color: #12174E;
+    background-color: #4bc3c9;
     color: #fff !important;
   }
 
@@ -165,7 +165,7 @@
   margin-bottom: 0;
   padding: 200px 0 0;
   background-color: transparent;
-  background-image: linear-gradient(180deg, #12174E 0%, #2D3483 100%);
+  background-image: linear-gradient(180deg, #4bc3c9 0%, #2D3483 100%);
   background-attachment: fixed;
 }
 
@@ -231,7 +231,7 @@
 
 .feature-box:hover .btn-orange, .feature-box:hover .btn-blue, .feature-box:hover .btn-green, .feature-box:hover .btn-purple{
   color: #fff;
-  background-color: #fcc019;
+  background-color: #148ad9;
 }
 
 .feature-box:hover .btn-blue{
@@ -256,7 +256,7 @@
 }
 
 .advertise-inner {
-  background-image: linear-gradient(90deg, #12174E 0%, #2E357E 100%);
+  background-image: linear-gradient(90deg, #4bc3c9 0%, #2E357E 100%);
 }
 
 .advertise-right{
@@ -300,7 +300,7 @@
   margin-bottom: -180px;
 }
 .counter-inner {
-  background-image: linear-gradient(180deg, #12174E 0%, #2D3483 100%);
+  background-image: linear-gradient(180deg, #4bc3c9 0%, #2D3483 100%);
 }
 
 .counter .overlay{
@@ -355,12 +355,12 @@
 }
 
 .pricing-box:hover .pricing-box-icon i {
-  background-color: #12174E;
+  background-color: #4bc3c9;
   transition: all .3s ease-in-out;
 }
 
 .pricing-box:hover h4 {
-  color: #12174E;
+  color: #4bc3c9;
   transition: all .3s ease-in-out;
 }
 
@@ -397,7 +397,7 @@
 }
 
 .get-app-inner {
-  background-image: linear-gradient(180deg, #2D347D  0%, #12174E 100%);
+  background-image: linear-gradient(180deg, #2D347D  0%, #4bc3c9 100%);
 }
 
 /* Team CSS */
@@ -450,7 +450,7 @@
   content: "\f10e";
   font-family: "FontAwesome";
   position: absolute;
-  color: #fcc01969;
+  color: #148ad969;
   font-size: 45px;
   top: -30%;
   right: 5%;
@@ -512,11 +512,11 @@
   width: 50px;
   height: 50px;
   transition: all ease-in-out .5s;
-  background-color: #fcc019;
+  background-color: #148ad9;
 }
 
 #back-to-top a:hover{
-  background-color: #12174E;
+  background-color: #4bc3c9;
 }
 
 #back-to-top a:after {
@@ -595,7 +595,7 @@
 /* ========================================= */
 
 .career-detail .nav-tabs .nav-link.active {
-  color: #fcc019;
+  color: #148ad9;
 }
 
 .send-cv {
@@ -606,7 +606,7 @@
 }
 
 .send-cv .overlay{
-  background-color: #12174E;
+  background-color: #4bc3c9;
   opacity: .3;
 }
 
@@ -641,7 +641,7 @@
 }
 
 .accordion-button:not(.collapsed){
-  background-color: #fcc019;
+  background-color: #148ad9;
   color: #fff;
 }
 
@@ -681,7 +681,7 @@
 }
 
 .coming-soon .overlay{
-  background-color: #12174E;
+  background-color: #4bc3c9;
   background-position: bottom right;
   background-repeat: no-repeat;
   opacity: .8;
@@ -827,7 +827,7 @@ cursor: pointer;
   place-items: center;
   width: 100%;
   height: 100%;
-  background: #12174E;
+  background: #4bc3c9;
   clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
 }
 
@@ -839,17 +839,17 @@ cursor: pointer;
 }
 
 .star-rating input:hover ~ label .star-stroke,.star-rating input:checked ~ label .star-stroke{
-  background: #fcc019;
+  background: #148ad9;
   transition: all .2s ease-in-out;
 }
 
 .star-rating input:checked ~ label .star-stroke .star-fill{
-  background: #fcc019;
+  background: #148ad9;
   transition: all .2s ease-in-out;
 }
 
 .nav-tabs .nav-link.active{
-  color: #fcc019;
+  color: #148ad9;
 }
 
 .related-product .svg-shape{
